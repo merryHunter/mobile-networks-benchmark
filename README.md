@@ -1,2 +1,2 @@
 # mobile-networks-benchmark
-Ongoing work on benchmarking mobile neural networks on a custom dataset.
+Work on benchmarking mobile object detection neural networks on a custom dataset.
